@@ -79,18 +79,48 @@ idpartido, fase, equipo local, equipo visitante, goles local, goles visitante
 78,grupos,porto,schalke,3,1
 79,grupos,napoli,estrella roja,3,1
 80,grupos,borussia dortmund,brujas,0,0
-81,grupos
-82,grupos
-83,grupos
-84,grupos
-85,grupos
-86,grupos
-87,grupos
-88,grupos
-89,grupos
-90,grupos
-
-
-
-
-
+81,grupos,schalke,lokomotiv,1,0
+82,grupos,galatasaray,porto,2,3
+83,grupos,monaco,borussia dortmund,0,2
+84,grupos,liverpool,napoli,1,0
+85,grupos,inter,psv,1,1
+86,grupos,estrella roja,psg,1,4
+87,grupos,brujas,atlético de madrid,0,0
+88,grupos,barcelona,tottenham,1,1
+89,grupos,real madrid,cska moscu,0,3
+90,grupos,plzen,roma,2,1
+91,grupos,young boys,juventus,2,1
+92,grupos,valencia,manchester united,2,1
+93,grupos,shakthar,lyon,1,1
+94,grupos,manchester city,hoffenheim,2,1
+95,grupos,benfica,aek,1,0
+96,grupos,ajax,bayern múnich,3,3
+97,octavos,roma,porto,2,1
+98,octavos,manchester united,psg,0,2
+99,octavos,tottenham,dortmund,3,0
+100,octavos,ajax,real madrid,1,2
+101,octavos,lyon,barcelona,0,0
+102,octavos,liverpool,bayern múnich,0,0
+103,octavos,schalke,manchester city,2,3
+104,octavos,atlético de madrid,juventus,2,0
+105,octavos,real madrid,ajax,1,4
+106,octavos,borusia dortmund,tottenham,0,1
+107,octavos,psg,manchester united,1,3
+108,octavos,porto,roma,3,1
+109,octavos,manchester city,schalke,7,0
+110,octavos,juventus,atlético de madrid,3,0
+111,octavos,bayern múnich,liverpool,1,3
+112,octavos,barcelona,lyon,5,1
+113,cuartos,liverpool,porto,2,0
+114,cuartos,tottenham,manchester city,1,0
+115,cuartos,barcelona,manchester united,0,1
+116,cuartos,ajax,juventus,1,1
+117,cuartos,juventus,ajax,1,2
+118,cuartos,barcelona,manchester united,3,0
+119,cuartos,porto,liverpool,1,4
+120,cuartos,manchester city,tottenham,4,3
+121,semifinal,tottenham,ajax,0,1
+122,semifinal,barcelona,liverpool,3,0
+123,semifinal,liverpool,barcelona,4,0
+124,semifinal,ajax,tottenham,2,3
+125,final,liverpool,tottenham,2,0
