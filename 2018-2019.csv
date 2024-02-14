@@ -5,7 +5,7 @@ idpartido, fase, equipo local, equipo visitante, goles local, goles visitante
 4,grupos,mónaco,atlético de madrid,1,2
 5,grupos,liverpool,psg,3,2
 6,grupos,galatasaray,lokomotiv,3,0
-7,grupos,estrella roja,napoli,0,0
+7,grupos,estrella roja,nápoles,0,0
 8,grupos,brujas,borussia dortmund,0,1
 9,grupos,shakthar,hoffenheim,2,2
 10,grupos,ajax,aek,3,0
@@ -28,7 +28,7 @@ idpartido, fase, equipo local, equipo visitante, goles local, goles visitante
 27,grupos,tottenham,barcelona,2,4
 28,grupos,psv,inter,1,2
 29,grupos,porto,galatasaray,1,0
-30,grupos,napoli,liverpool,1,0
+30,grupos,nápoles,liverpool,1,0
 31,grupos,borussia dortmund,mÓnaco,3,0
 32,grupos,atlético de madrid,brujas,3,1
 33,grupos,young boys,valencia,1,1
@@ -41,7 +41,7 @@ idpartido, fase, equipo local, equipo visitante, goles local, goles visitante
 40,grupos,ajax,benfica,1,0
 41,grupos,psv,tottenham,2,2
 42,grupos,brujas,mónaco,1,1
-43,grupos,psg,napoli,2,2
+43,grupos,psg,nápoles,2,2
 44,grupos,lokomotiv,porto,1,3
 45,grupos,liverpool,estrella roja,4,0
 46,grupos,galatasaray,schalke,0,0
@@ -52,7 +52,7 @@ idpartido, fase, equipo local, equipo visitante, goles local, goles visitante
 51,grupos,tottenham,psv,2,1
 52,grupos,schalke,galatasaray,2,0
 53,grupos,porto,lokomotiv,4,1
-54,grupos,napoli,psg,1,1
+54,grupos,nápoles,psg,1,1
 55,grupos,inter,barcelona,1,1
 56,grupos,atlético de madrid,borussia dortmund,2,0
 57,grupos,valencia,young boys,3,1
@@ -77,12 +77,12 @@ idpartido, fase, equipo local, equipo visitante, goles local, goles visitante
 76,grupos,psv,barcelona,1,2
 77,grupos,psg,liverpool,2,1
 78,grupos,porto,schalke,3,1
-79,grupos,napoli,estrella roja,3,1
+79,grupos,nápoles,estrella roja,3,1
 80,grupos,borussia dortmund,brujas,0,0
 81,grupos,schalke,lokomotiv,1,0
 82,grupos,galatasaray,porto,2,3
 83,grupos,monaco,borussia dortmund,0,2
-84,grupos,liverpool,napoli,1,0
+84,grupos,liverpool,nápoles,1,0
 85,grupos,inter,psv,1,1
 86,grupos,estrella roja,psg,1,4
 87,grupos,brujas,atlético de madrid,0,0
