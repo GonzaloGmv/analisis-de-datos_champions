@@ -1,4 +1,4 @@
-idpartido, fase, equipo local, equipo visitante, goles local, goles visitante
+idpartido, fase, equipo_local, equipo visitante, goles local, goles visitante
 1,grupos,inter,tottenham,2,1
 2,grupos,barcelona,psv,4,0
 3,grupos,shalke,porto,1,1
@@ -29,7 +29,7 @@ idpartido, fase, equipo local, equipo visitante, goles local, goles visitante
 28,grupos,psv,inter,1,2
 29,grupos,porto,galatasaray,1,0
 30,grupos,nápoles,liverpool,1,0
-31,grupos,borussia dortmund,mÓnaco,3,0
+31,grupos,borussia dortmund,mónaco,3,0
 32,grupos,atlético de madrid,brujas,3,1
 33,grupos,young boys,valencia,1,1
 34,grupos,aek,bayern múnich,0,2
@@ -56,7 +56,7 @@ idpartido, fase, equipo local, equipo visitante, goles local, goles visitante
 55,grupos,inter,barcelona,1,1
 56,grupos,atlético de madrid,borussia dortmund,2,0
 57,grupos,valencia,young boys,3,1
-58,grupos,cska moscu,roma,1,2   
+58,grupos,cska moscu,roma,1,2
 59,grupos,plzen,real madrid,0,5
 60,grupos,manchester city,shakthar,6,0
 61,grupos,lyon,hoffenheim,2,2
@@ -97,14 +97,14 @@ idpartido, fase, equipo local, equipo visitante, goles local, goles visitante
 96,grupos,ajax,bayern múnich,3,3
 97,octavos,roma,porto,2,1
 98,octavos,manchester united,psg,0,2
-99,octavos,tottenham,dortmund,3,0
+99,octavos,tottenham,borussia dortmund,3,0
 100,octavos,ajax,real madrid,1,2
 101,octavos,lyon,barcelona,0,0
 102,octavos,liverpool,bayern múnich,0,0
 103,octavos,schalke,manchester city,2,3
 104,octavos,atlético de madrid,juventus,2,0
 105,octavos,real madrid,ajax,1,4
-106,octavos,borusia dortmund,tottenham,0,1
+106,octavos,borussia dortmund,tottenham,0,1
 107,octavos,psg,manchester united,1,3
 108,octavos,porto,roma,3,1
 109,octavos,manchester city,schalke,7,0
