@@ -119,8 +119,8 @@ id_partido,fase,equipo_local,equipo_visitante,goles_local,goles_visitante
 118,cuartos,Bayern München,Manchester City,1,1
 119,cuartos,Napoli,Milan,1,1
 120,cuartos,Inter,Benfica,3,3
-121,semis,Real Madrid,Manchester City,1,1
-122,semis,Milan,Inter,0,2
-123,semis,Manchester City,Real Madrid,4,0
-124,semis,Inter,Milan,1,0
+121,semifinal,Real Madrid,Manchester City,1,1
+122,semifinal,Milan,Inter,0,2
+123,semifinal,Manchester City,Real Madrid,4,0
+124,semifinal,Inter,Milan,1,0
 125,final,Manchester City,Inter,1,0

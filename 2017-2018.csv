@@ -119,8 +119,8 @@ idpartido,fase,equipo local,equipo visitante,goles local,goles visitante
 118,cuartos,roma,barcelona,3,0
 119,cuartos,bayern múnich,sevilla,0,0
 120,cuartos,real madrid,juventus,1,3
-121,semifinales,liverpool,roma,5,2
-122,semifinales,bayern múnich,real madrid,1,2
-123,semifinales,roma,liverpool,4,2
-124,semifinales,real madrid,bayern múnich,2,2
+121,semifinal,liverpool,roma,5,2
+122,semifinal,bayern múnich,real madrid,1,2
+123,semifinal,roma,liverpool,4,2
+124,semifinal,real madrid,bayern múnich,2,2
 125,final,real madrid,liverpool,3,1

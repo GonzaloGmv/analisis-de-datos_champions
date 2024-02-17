@@ -119,8 +119,8 @@ id_partido,fase,equipo_local,equipo_visitante,goles_local,goles_visitante
 118,cuartos,Porto,Chelsea,1,0
 119,cuartos,Bayern Múnich,Paris Saint-Germain,1,0
 120,cuartos,Real Madrid,Liverpool,0,0
-121,semis,Real Madrid,Chelsea,1,1
-122,semis,Paris Saint-Germain,Manchester City,1,2
-123,semis,Real Madrid,Chelsea,2,0
-124,semis,Paris Saint-Germain,Manchester City,2,0
+121,semifinal,Real Madrid,Chelsea,1,1
+122,semifinal,Paris Saint-Germain,Manchester City,1,2
+123,semifinal,Real Madrid,Chelsea,2,0
+124,semifinal,Paris Saint-Germain,Manchester City,2,0
 125,final,Manchester City,Chelsea,0,1

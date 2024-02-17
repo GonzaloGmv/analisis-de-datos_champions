@@ -119,8 +119,8 @@ id_partido,fase,equipo_local,equipo_visitante,goles_local,goles_visitante
 118,cuartos,Bayern München,Villarreal,1,1
 119,cuartos,Atlético Madrid,Manchester City,0,0
 120,cuartos,Real Madrid,Chelsea,3,2
-121,semis,Villarreal,Liverpool,2,3
-122,semis,Manchester City,Real Madrid,4,3
-123,semis,Liverpool,Villarreal,2,0
-124,semis,Real Madrid,Manchester City,3,1
+121,semifinal,Villarreal,Liverpool,2,3
+122,semifinal,Manchester City,Real Madrid,4,3
+123,semifinal,Liverpool,Villarreal,2,0
+124,semifinal,Real Madrid,Manchester City,3,1
 125,final,Liverpool,Real Madrid,0,1
