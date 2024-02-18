@@ -5,25 +5,25 @@ id_partido,fase,equipo local,equipo visitante,goles local,goles visitante
 4,grupos,Borussia Dortmund,Barcelona,0,0
 5,grupos,Chelsea,Valencia,0,1
 6,grupos,Salzburgo,Genk,6,2
-7,grupos,Napoli,Liverpool,2,0
+7,grupos,Nápoles,Liverpool,2,0
 8,grupos,Ajax,Lille,3,0
 9,grupos,Benfica,RB Leipzig,1,2
 10,grupos,Olympiacos,Tottenham,2,2
-11,grupos,Club Brugge,Galatasaray,0,0
+11,grupos,Brujas,Galatasaray,0,0
 12,grupos,PSG,Real Madrid,3,0
 13,grupos,Shakhtar Donetsk,Manchester City,0,3
 14,grupos,Atalanta,Dinamo Zagreb,0,4
-15,grupos,Bayern Munich,Estrella Roja,3,0
+15,grupos,Bayern Múnich,Estrella Roja,3,0
 16,grupos,Leverkusen,Lokomotiv Moscú,1,2
-17,grupos,Real Madrid,Club Brugge,2,2
+17,grupos,Real Madrid,Brujas,2,2
 18,grupos,Atalanta,Shakhtar Donetsk,1,2
 19,grupos,Manchester City,Dinamo Zagreb,2,0
 20,grupos,Juventus,Bayer Leverkusen,3,0
-21,grupos,Lokomotiv Moscú,Atlético Madrid,0,2
+21,grupos,Lokomotiv Moscú,Atlético de Madrid,0,2
 22,grupos,Tottenham,Bayern Múnich,2,7
 23,grupos,Galatasaray,PSG,0,1
 24,grupos,Estrella Roja,Olympiacos,3,1
-25,grupos,Genk,Napoli,0,0
+25,grupos,Genk,Nápoles,0,0
 26,grupos,Liverpool,Salzburg,4,3
 27,grupos,Barcelona,Inter Milan,2,1
 28,grupos,Slavia Praga,Borussia Dortmund,0,2
@@ -32,14 +32,14 @@ id_partido,fase,equipo local,equipo visitante,goles local,goles visitante
 31,grupos,Valencia,Ajax,0,3
 32,grupos,RB Leipzig,Lyon,0,2
 33,grupos,Shakhtar Donetsk,Dinamo Zagreb,2,2
-34,grupos,Atlético Madrid,Bayer Leverkusen,1,0
-35,grupos,Club Brugge,PSG,0,5
+34,grupos,Atlético de Madrid,Bayer Leverkusen,1,0
+35,grupos,Brujas,PSG,0,5
 36,grupos,Galatasaray,Real Madrid,0,1
 37,grupos,Tottenham,Crvena Zvezda,5,0
 38,grupos,Manchester City,Atalanta,5,1
 39,grupos,Olympiacos,Bayern Múnich,2,3
 40,grupos,Juventus,Lokomotiv Moscú,2,1
-41,grupos,Salzburg,Napoli,2,3
+41,grupos,Salzburg,Nápoles,2,3
 42,grupos,Genk,Liverpool,1,4
 43,grupos,Slavia Praga,Barcelona,1,2
 44,grupos,Inter Milan,Borussia Dortmund,2,0
@@ -48,14 +48,14 @@ id_partido,fase,equipo local,equipo visitante,goles local,goles visitante
 47,grupos,Ajax,Chelsea,0,1
 48,grupos,RB Leipzig,Zenit,2,1
 49,grupos,Dinamo Zagreb,Shakhtar Donetsk,3,3
-50,grupos,Bayer Leverkusen,Atlético Madrid,2,1
-51,grupos,PSG,Club Brugge,1,0
+50,grupos,Bayer Leverkusen,Atlético de Madrid,2,1
+51,grupos,PSG,Brujas,1,0
 52,grupos,Real Madrid,Galatasaray,6,0
 53,grupos,Crvena Zvezda,Tottenham,0,4
 54,grupos,Atalanta,Manchester City,1,1
 55,grupos,Bayern Múnich,Olympiacos,2,0
 56,grupos,Lokomotiv Moscú,Juventus,1,2
-57,grupos,Napoli,Salzburg,1,1
+57,grupos,Nápoles,Salzburg,1,1
 58,grupos,Liverpool,Genk,2,1
 59,grupos,Barcelona,Slavia Praga,0,0
 60,grupos,Borussia Dortmund,Inter Milan,3,2
@@ -63,17 +63,17 @@ id_partido,fase,equipo local,equipo visitante,goles local,goles visitante
 62,grupos,Valencia,Lille,4,1
 63,grupos,Chelsea,Ajax,4,4
 64,grupos,Zenit,RB Leipzig,0,2
-65,grupos,Galatasaray,Club Brugge,1,1
+65,grupos,Galatasaray,Brujas,1,1
 66,grupos,Lokomotiv Moscú,Bayer Leverkusen,0,2
 67,grupos,Real Madrid,PSG,2,2
 68,grupos,Tottenham,Olympiacos,4,2
 69,grupos,Manchester City,Shakhtar Donetsk,1,1
-70,grupos,Juventus,Atlético Madrid,1,0
+70,grupos,Juventus,Atlético de Madrid,1,0
 71,grupos,Estrella Roja,Bayern Múnich,0,6
 72,grupos,Atalanta,Dinamo Zagreb,2,0
 73,grupos,Valencia,Chelsea,2,2
 74,grupos,Zenit,Lyon,2,0
-75,grupos,Liverpool,Napoli,1,1
+75,grupos,Liverpool,Nápoles,1,1
 76,grupos,Genk,Salzburg,1,4
 77,grupos,Barcelona,Borussia Dortmund,3,1
 78,grupos,Slavia Praga,Inter Milan,1,3
@@ -82,8 +82,8 @@ id_partido,fase,equipo local,equipo visitante,goles local,goles visitante
 81,grupos,Bayern Múnich,Tottenham,3,1
 82,grupos,Olympiacos,Estrella Roja,1,0
 83,grupos,PSG,Galatasaray,5,0
-84,grupos,Club Brugge,Real Madrid,1,3
-85,grupos,Atlético Madrid,Lokomotiv Moscú,2,0
+84,grupos,Brujas,Real Madrid,1,3
+85,grupos,Atlético de Madrid,Lokomotiv Moscú,2,0
 86,grupos,Bayer Leverkusen,Juventus,0,2
 87,grupos,Shakhtar Donetsk,Atalanta,0,3
 88,grupos,Dinamo Zagreb,Manchester City,1,4
@@ -93,26 +93,26 @@ id_partido,fase,equipo local,equipo visitante,goles local,goles visitante
 92,grupos,Lyon,RB Leipzig,2,2
 93,grupos,Borussia Dortmund,Slavia Praga,2,1
 94,grupos,Inter Milan,Barcelona,1,2
-95,grupos,Napoli,Genk,4,0
+95,grupos,Nápoles,Genk,4,0
 96,grupos,Salzburg,Liverpool,0,2
 97,octavos,Borussia Dortmund,PSG,2,1
 98,octavos,Real Madrid,Manchester City,1,2
 99,octavos,Atalanta,Valencia,4,1
-100,octavos,Atlético Madrid,Liverpool,1,0
+100,octavos,Atlético de Madrid,Liverpool,1,0
 101,octavos,Chelsea,Bayern Múnich,0,3
 102,octavos,Lyon,Juventus,1,0
 103,octavos,Tottenham,RB Leipzig,0,1
-104,octavos,Napoli,Barcelona,1,1
+104,octavos,Nápoles,Barcelona,1,1
 105,octavos,PSG,Borussia Dortmund,2,0
 106,octavos,Manchester City,Real Madrid,2,1
 107,octavos,Valencia,Atalanta,3,4
-108,octavos,Liverpool,Atlético Madrid,2,3
+108,octavos,Liverpool,Atlético de Madrid,2,3
 109,octavos,Bayern Múnich,Chelsea,4,1
 110,octavos,Juventus,Lyon,2,1
 111,octavos,RB Leipzig,Tottenham,3,0
-112,octavos,Barcelona,Napoli,3,1
+112,octavos,Barcelona,Nápoles,3,1
 113,cuartos,Atalanta,PSG,1,2
-114,cuartos,RB Leipzig,Atlético Madrid,2,1
+114,cuartos,RB Leipzig,Atlético de Madrid,2,1
 115,cuartos,Barcelona,Bayern Múnich,2,8
 116,cuartos,Manchester City,Lyon,1,3
 117,semifinal,RB Leipzig,PSG,0,3

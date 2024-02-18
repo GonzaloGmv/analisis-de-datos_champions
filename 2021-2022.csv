@@ -1,5 +1,5 @@
 id_partido,fase,equipo local,equipo visitante,goles local,goles visitante
-1,grupos,Barcelona,Bayern München,0,3
+1,grupos,Barcelona,Bayern Múnich,0,3
 2,grupos,Dynamo Kyiv,Benfica,0,0
 3,grupos,Chelsea,Zenit,1,0
 4,grupos,Malmö,Juventus,0,3
@@ -10,15 +10,15 @@ id_partido,fase,equipo local,equipo visitante,goles local,goles visitante
 9,grupos,Sporting de Portugal,Ajax,1,5
 10,grupos,Atlético de Madrid,Porto,0,0
 11,grupos,Manchester City,RB Leipzig,6,3
-12,grupos,Brugge,PSG,1,1
+12,grupos,Brujas,PSG,1,1
 13,grupos,Sheriff Tiraspol,Shakhtar Donetsk,2,0
-14,grupos,Beşiktaş,Borussia Dortmund,1,2
+14,grupos,Besiktas,Borussia Dortmund,1,2
 15,grupos,Liverpool,Milan,3,2
 16,grupos,Inter,Real Madrid,0,1
 17,grupos,Borussia Dortmund,Sporting de Portugal,1,0
 18,grupos,Milan,Atlético de Madrid,1,2
 19,grupos,Porto,Liverpool,1,5
-20,grupos,RB Leipzig,Brugge,1,2
+20,grupos,RB Leipzig,Brujas,1,2
 21,grupos,PSG,Manchester City,2,0
 22,grupos,Shakhtar Donetsk,Inter,0,0
 23,grupos,Real Madrid,Sheriff Tiraspol,1,2
@@ -28,13 +28,13 @@ id_partido,fase,equipo local,equipo visitante,goles local,goles visitante
 27,grupos,Wolfsburg,Sevilla,1,1
 28,grupos,Manchester United,Villarreal,2,1
 29,grupos,Benfica,Barcelona,3,0
-30,grupos,Bayern München,Dynamo Kyiv,5,0
+30,grupos,Bayern Múnich,Dynamo Kyiv,5,0
 31,grupos,Zenit,Malmö,4,0
 32,grupos,Atlético de Madrid,Liverpool,2,3
 33,grupos,Inter,Sheriff Tiraspol,3,1
 34,grupos,Shakhtar Donetsk,Real Madrid,0,5
-35,grupos,Brugge,Manchester City,1,5
-36,grupos,Beşiktaş,Sporting de Portugal,1,4
+35,grupos,Brujas,Manchester City,1,5
+36,grupos,Besiktas,Sporting de Portugal,1,4
 37,grupos,PSG,RB Leipzig,3,2
 38,grupos,Porto,Milan,1,0
 39,grupos,Ajax,Borussia Dortmund,4,0
@@ -43,22 +43,22 @@ id_partido,fase,equipo local,equipo visitante,goles local,goles visitante
 42,grupos,Chelsea,Malmö,4,0
 43,grupos,Lille,Sevilla,0,0
 44,grupos,Young Boys,Villarreal,1,4
-45,grupos,Benfica,Bayern München,0,4
+45,grupos,Benfica,Bayern Múnich,0,4
 46,grupos,Red Bull Salzburg,Wolfsburg,3,1
 47,grupos,Barcelona,Dynamo Kyiv,1,0
 48,grupos,Juventus,Zenit,4,2
 49,grupos,Dynamo Kyiv,Barcelona,0,1
 50,grupos,Atalanta,Manchester United,2,2
 51,grupos,Villarreal,Young Boys,2,0
-52,grupos,Bayern München,Benfica,5,2
+52,grupos,Bayern Múnich,Benfica,5,2
 53,grupos,Sevilla,Lille,1,2
 54,grupos,Malmö,Chelsea,0,1
 55,grupos,Wolfsburg,Red Bull Salzburg,2,1
 56,grupos,Borussia Dortmund,Ajax,1,3
-57,grupos,Sporting de Portugal,Beşiktaş,4,0
+57,grupos,Sporting de Portugal,Besiktas,4,0
 58,grupos,Liverpool,Atlético de Madrid,2,0
 59,grupos,RB Leipzig,PSG,2,2
-60,grupos,Manchester City,Brugge,4,1
+60,grupos,Manchester City,Brujas,4,1
 61,grupos,Real Madrid,Shakhtar Donetsk,2,1
 62,grupos,Milan,Porto,1,1
 63,grupos,Sheriff Tiraspol,Inter,1,3
@@ -69,20 +69,20 @@ id_partido,fase,equipo local,equipo visitante,goles local,goles visitante
 68,grupos,Barcelona,Benfica,0,0
 69,grupos,Chelsea,Juventus,4,0
 70,grupos,Young Boys,Atalanta,3,3
-71,grupos,Dynamo Kyiv,Bayern München,1,2
+71,grupos,Dynamo Kyiv,Bayern Múnich,1,2
 72,grupos,Inter,Shakhtar Donetsk,2,0
 73,grupos,Sporting de Portugal,Borussia Dortmund,3,1
-74,grupos,Beşiktaş,Ajax,1,2
+74,grupos,Besiktas,Ajax,1,2
 75,grupos,Sheriff Tiraspol,Real Madrid,0,3
-76,grupos,Brugge,RB Leipzig,0,5
+76,grupos,Brujas,RB Leipzig,0,5
 77,grupos,Manchester City,PSG,2,1
 78,grupos,Liverpool,Porto,2,0
 79,grupos,Atlético de Madrid,Milan,0,1
 80,grupos,Porto,Atlético de Madrid,1,3
 81,grupos,RB Leipzig,Manchester City,2,1
 82,grupos,Milan,Liverpool,1,2
-83,grupos,PSG,Brugge,4,1
-84,grupos,Borussia Dortmund,Beşiktaş,5,0
+83,grupos,PSG,Brujas,4,1
+84,grupos,Borussia Dortmund,Besiktas,5,0
 85,grupos,Shakhtar Donetsk,Sheriff Tiraspol,1,1
 86,grupos,Real Madrid,Inter,2,0
 87,grupos,Ajax,Sporting de Portugal,4,2
@@ -92,32 +92,32 @@ id_partido,fase,equipo local,equipo visitante,goles local,goles visitante
 91,grupos,Juventus,Malmö,1,0
 92,grupos,Zenit,Chelsea,3,3
 93,grupos,Benfica,Dynamo Kyiv,2,0
-94,grupos,Bayern München,Barcelona,3,0
+94,grupos,Bayern Múnich,Barcelona,3,0
 95,grupos,Atalanta,Villarreal,2,3
 96,grupos,Ajax,Besiktas,2,0
 97,octavos,Benfica,Ajax,2,2
 98,octavos,Inter,Liverpool,0,2
 99,octavos,Villarreal,Juventus,1,1
-100,octavos,Red Bull Salzburg,Bayern München,1,1
+100,octavos,Red Bull Salzburg,Bayern Múnich,1,1
 101,octavos,Sporting CP,Manchester City,0,5
-102,octavos,Atlético Madrid,Manchester United,1,1
+102,octavos,Atlético de Madrid,Manchester United,1,1
 103,octavos,Chelsea,Lille,2,0
 104,octavos,PSG,Real Madrid,1,0
 105,octavos,Ajax,Benfica,0,1
 106,octavos,Liverpool,Inter,0,1
 107,octavos,Juventus,Villarreal,0,3
-108,octavos,Bayern München,Red Bull Salzburg,7,1
+108,octavos,Bayern Múnich,Red Bull Salzburg,7,1
 109,octavos,Manchester City,Sporting CP,0,0
-110,octavos,Manchester United,Atlético Madrid,1,0
+110,octavos,Manchester United,Atlético de Madrid,1,0
 111,octavos,Lille,Chelsea,1,2
 112,octavos,Real Madrid,PSG,3,1
 113,cuartos,Benfica,Liverpool,1,3
-114,cuartos,Villarreal,Bayern München,1,0
-115,cuartos,Manchester City,Atlético Madrid,1,0
+114,cuartos,Villarreal,Bayern Múnich,1,0
+115,cuartos,Manchester City,Atlético de Madrid,1,0
 116,cuartos,Chelsea,Real Madrid,1,3
 117,cuartos,Liverpool,Benfica,3,3
-118,cuartos,Bayern München,Villarreal,1,1
-119,cuartos,Atlético Madrid,Manchester City,0,0
+118,cuartos,Bayern Múnich,Villarreal,1,1
+119,cuartos,Atlético de Madrid,Manchester City,0,0
 120,cuartos,Real Madrid,Chelsea,3,2
 121,semifinal,Villarreal,Liverpool,2,3
 122,semifinal,Manchester City,Real Madrid,4,3
