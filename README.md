@@ -1,6 +1,6 @@
-# analisis-de-datos
+# analisis-de-datos_champions
 
-EL link al repositorio es: [github](https://github.com/GonzaloGmv/analisis-de-datos)
+EL link al repositorio es: [github](https://github.com/GonzaloGmv/analisis-de-datos_champions)
 
 
 Antes que nada hay que tener en cuenta que para hacer buenas predicciones faltan muchos datos para saber el estado de forma de los equipos, como partidos de sus ligas o estado de forma de sus jugadores. De esta forma, las predicciones que hecho yo con datos más limitados estará mucho más limitada.
