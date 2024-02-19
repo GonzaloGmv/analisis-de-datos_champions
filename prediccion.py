@@ -10,7 +10,7 @@ warnings.filterwarnings("ignore", category=FutureWarning)
 
 def predecir_partidos(csv_fase):
     # Lista de nombres de archivos CSV
-    archivos_csv = ["2017-2018.csv", "2018-2019.csv", "2019-2020.csv", "2020-2021.csv", "2021-2022.csv", "2022-2023.csv", "2023-2024.csv"]
+    archivos_csv = ["datos/2017-2018.csv", "datos/2018-2019.csv", "datos/2019-2020.csv", "datos/2020-2021.csv", "datos/2021-2022.csv", "datos/2022-2023.csv", "datos/2023-2024.csv"]
 
     # Lista para almacenar cada DataFrame
     dataframes = []
@@ -67,4 +67,4 @@ predecir_partidos("partidos_octavos.csv")
 predecir_partidos("partidos_cuartos.csv")
 predecir_partidos("partidos_semifinal.csv")
 '''
-predecir_partidos("partidos_final.csv")
+predecir_partidos("predicciones/partidos_final.csv")
