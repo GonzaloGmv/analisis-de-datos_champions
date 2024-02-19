@@ -1,8 +1,8 @@
-id_partido,fase,equipo local,equipo visitante,goles local,goles visitante
+id_partido,fase,equipo_local,equipo_visitante,goles_local,goles_visitante
 1,grupos,AC Milan,Newcastle,0,0
 2,grupos,Young Boys,RB Leipzig,1,3
 3,grupos,Feyenoord,Celtic,2,0
-4,grupos,Lazio,Atletico Madrid,1,1
+4,grupos,Lazio,Atlético de Madrid,1,1
 5,grupos,PSG,Borussia Dortmund,2,0
 6,grupos,Manchester City,Crvena zvezda,3,1
 7,grupos,Barcelona,Royal Antwerp,5,0
@@ -10,7 +10,7 @@ id_partido,fase,equipo local,equipo visitante,goles local,goles visitante
 9,grupos,Galatasaray,Copenhagen,2,2
 10,grupos,Real Madrid,Union Berlin,1,0
 11,grupos,Bayern Múnich,Manchester United,4,3
-12,grupos,Arsenal,PSV Eindhoven,4,0
+12,grupos,Arsenal,PSV,4,0
 13,grupos,Sevilla,Lens,1,1
 14,grupos,Braga,Nápoles,1,2
 15,grupos,Real Sociedad,Inter,1,1
@@ -20,10 +20,10 @@ id_partido,fase,equipo local,equipo visitante,goles local,goles visitante
 19,grupos,Manchester United,Galatasaray,2,3
 20,grupos,Copenhagen,Bayern Múnich,1,2
 21,grupos,Lens,Arsenal,2,1
-22,grupos,PSV Eindhoven,Sevilla,2,2
+22,grupos,PSV,Sevilla,2,2
 23,grupos,Nápoles,Real Madrid,2,3
 24,grupos,Inter,Benfica,1,0
-25,grupos,Atletico Madrid,Feyenoord,3,2
+25,grupos,Atlético de Madrid,Feyenoord,3,2
 26,grupos,Royal Antwerp,Shakhtar Donetsk,2,3
 27,grupos,Celtic,Lazio,1,2
 28,grupos,Borussia Dortmund,AC Milan,0,0
@@ -35,13 +35,13 @@ id_partido,fase,equipo local,equipo visitante,goles local,goles visitante
 34,grupos,Inter,Salzburg,2,1
 35,grupos,Manchester United,Copenhagen,1,0
 36,grupos,Sevilla,Arsenal,1,2
-37,grupos,Lens,PSV Eindhoven,1,1
+37,grupos,Lens,PSV,1,1
 38,grupos,Braga,Real Madrid,1,2
 39,grupos,Union Berlin,Nápoles,0,1
 40,grupos,Benfica,Real Sociedad,0,1
 41,grupos,Feyenoord,Lazio,3,1
 42,grupos,Barcelona,Shakhtar Donetsk,2,1
-43,grupos,Celtic,Atletico Madrid,2,2
+43,grupos,Celtic,Atlético de Madrid,2,2
 44,grupos,PSG,AC Milan,3,0
 45,grupos,Newcastle,Borussia Dortmund,0,1
 46,grupos,RB Leipzig,Crvena zvezda,3,1
@@ -49,7 +49,7 @@ id_partido,fase,equipo local,equipo visitante,goles local,goles visitante
 48,grupos,Royal Antwerp,Porto,1,4
 49,grupos,Borussia Dortmund,Newcastle,2,0
 50,grupos,Shakhtar Donetsk,Barcelona,1,0
-51,grupos,Atletico Madrid,Celtic,6,0
+51,grupos,Atlético de Madrid,Celtic,6,0
 52,grupos,Lazio,Feyenoord,1,0
 53,grupos,AC Milan,PSG,2,1
 54,grupos,Manchester City,Young Boys,3,0
@@ -60,19 +60,19 @@ id_partido,fase,equipo local,equipo visitante,goles local,goles visitante
 59,grupos,Bayern Múnich,Galatasaray,2,1
 60,grupos,Copenhagen,Manchester United,4,3
 61,grupos,Arsenal,Sevilla,2,0
-62,grupos,PSV Eindhoven,Lens,1,0
+62,grupos,PSV,Lens,1,0
 63,grupos,Real Madrid,Braga,3,0
 64,grupos,Salzburg,Inter,0,1
 65,grupos,Lazio,Celtic,2,0
 66,grupos,Shakhtar Donetsk,Royal Antwerp,1,0
-67,grupos,Feyenoord,Atletico Madrid,1,3
+67,grupos,Feyenoord,Atlético de Madrid,1,3
 68,grupos,PSG,Newcastle,1,1
 69,grupos,AC Milan,Borussia Dortmund,1,3
 70,grupos,Manchester City,RB Leipzig,3,2
 71,grupos,Young Boys,Crvena zvezda,2,0
 72,grupos,Barcelona,Porto,2,1
 73,grupos,Galatasaray,Manchester United,3,3
-74,grupos,Sevilla,PSV Eindhoven,2,3
+74,grupos,Sevilla,PSV,2,3
 75,grupos,Bayern Múnich,Copenhagen,0,0
 76,grupos,Arsenal,Lens,6,0
 77,grupos,Real Madrid,Nápoles,4,2
@@ -80,7 +80,7 @@ id_partido,fase,equipo local,equipo visitante,goles local,goles visitante
 79,grupos,Benfica,Inter,3,3
 80,grupos,Real Sociedad,Salzburg,0,0
 81,grupos,Lens,Sevilla,2,1
-82,grupos,PSV Eindhoven,Arsenal,1,1
+82,grupos,PSV,Arsenal,1,1
 83,grupos,Manchester United,Bayern Múnich,0,1
 84,grupos,Copenhagen,Galatasaray,1,0
 85,grupos,Nápoles,Braga,2,0
@@ -89,7 +89,7 @@ id_partido,fase,equipo local,equipo visitante,goles local,goles visitante
 88,grupos,Salzburg,Benfica,1,3
 89,grupos,RB Leipzig,Young Boys,2,1
 90,grupos,Crvena zvezda,Manchester City,2,3
-91,grupos,Atletico Madrid,Lazio,2,0
+91,grupos,Atlético de Madrid,Lazio,2,0
 92,grupos,Celtic,Feyenoord,2,1
 93,grupos,Borussia Dortmund,PSG,1,1
 94,grupos,Newcastle,AC Milan,1,2

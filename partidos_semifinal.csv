@@ -1,0 +1,5 @@
+id_partido,fase,equipo_local,equipo_visitante,goles_local,goles_visitante
+1,semifinal,Atlético de Madrid,Arsenal,3.0,1.0
+2,semifinal,Bayern de Múnich,Real Madrid,1.0,1.0
+3,semifinal,Arsenal,Atlético de Madrid,3.0,0.0
+4,semifinal,Real Madrid,Bayern Múnich,2.0,1.0

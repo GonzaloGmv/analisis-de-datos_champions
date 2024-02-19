@@ -1,0 +1,17 @@
+id_partido,fase,equipo_local,equipo_visitante,goles_local,goles_visitante
+97,octavos,Lazio,Bayern Múnich,1.0,1.0
+98,octavos,PSG,Real Sociedad,1.0,1.0
+99,octavos,Copenhagen,Manchester City,1.0,3.0
+100,octavos,RB Leipzig,Real Madrid,2.0,1.0
+101,octavos,Inter,Atlético de Madrid,1.0,1.0
+102,octavos,PSV,Borussia Dortmund,1.0,1.0
+103,octavos,Nápoles,Barcelona,1.0,1.0
+104,octavos,Porto,Arsenal,2.0,1.0
+105,octavos,Bayern Múnich,Lazio,2.0,1.0
+106,octavos,Real Sociedad,PSG,2.0,1.0
+107,octavos,Manchester City,Copenhagen,1.0,0.0
+108,octavos,Real Madrid,RB Leipzig,2.0,1.0
+109,octavos,Atlético de Madrid,Inter,3.0,1.0
+110,octavos,Borussia Dortmund,PSV,1.0,0.0
+111,octavos,Barcelona,Nápoles,2.0,1.0
+112,octavos,Arsenal,Porto,3.0,1.0

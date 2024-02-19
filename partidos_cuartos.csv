@@ -1,0 +1,9 @@
+id_partido,fase,equipo_local,equipo_visitante,goles_local,goles_visitante
+1,cuartos,Bayern Múnich,Real Sociedad,1.0,1.0
+2,cuartos,Manchester City,Real Madrid,1.0,1.0
+3,cuartos,Atlético de Madrid,Borussia Dortmund,3.0,2.0
+4,cuartos,Barcelona,Arsenal,2.0,1.0
+5,cuartos,Real Sociedad,Bayern Múnich,1.0,2.0
+6,cuartos,Real Madrid,Manchester City,2.0,2.0
+7,cuartos,Borussia Dortmund,Atlético de Madrid,1.0,1.0
+8,cuartos,Arsenal,Barcelona,3.0,0.0
