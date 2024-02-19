@@ -11,7 +11,7 @@ Para realizar las predicciones constaba de todos los partidos de las champions d
 
 Sabiendo los cruces de octavos he entrenado un modelo de Random Forest utilizando los datos anteriores para predecir estos partidos.
 
-Una vez tenía estos partidos veía qué equipo había ganado, en caso de empate hacía sorteo, ya que ese partido se decidiría en una tanda de penaltis que al fin y al cabo tiene un factor aleatorio muy importante (cabe destacar la existencia de un posible sesgo a la hora de hacer los sorteos para desempatar, debido a que la persona que ha hecho estos sorteos pueda ser más afín o menos a según que equipo).
+Una vez tenía estos partidos veía qué equipo había ganado, en caso de empate hacía sorteo, ya que ese partido se decidiría en una tanda de penaltis que al fin y al cabo tiene un factor aleatorio muy importante (cabe destacar la existencia de un posible sesgo a la hora de hacer los sorteos para desempatar, debido a que la persona que ha hecho estos sorteos puede ser más afín o menos a según que equipo).
 
 Posteriormente hacía los sorteos de los enfrentamientos (bolas calientes). Una vez tenía hechos los enfrentamientos de la siguiente fase, volvía a ejecutar el random forest, y así hasta acabar.
 
