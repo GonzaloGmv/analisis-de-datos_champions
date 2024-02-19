@@ -15,7 +15,7 @@ Una vez tenía estos partidos veía qué equipo había ganado, en caso de empate
 
 Posteriormente hacía los sorteos de los enfrentamientos (bolas calientes). Una vez tenía hechos los enfrentamientos de la siguiente fase, volvía a ejecutar el random forest, y así hasta acabar.
 
-Finalmente me sale como ganador el Real Madrid ganando la final por 2-1 ante el Arsenal
+Finalmente me sale como ganador el Real Madrid ganando la final por 2-1 ante el Arsenal. Por lo que la predicción no debe estar tan mal al fin y al cabo.
 
 ![image](https://github.com/GonzaloGmv/analisis-de-datos/assets/91721237/9c494349-e231-492e-8450-05823ecced60)
 
